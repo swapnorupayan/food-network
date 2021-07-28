@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    background-color: rgb(245, 241, 241);
+}
+
+                    /*top section*/
+h1{
+    font-size: 50px;
+}
+.flexiable-area{
+    display: flex;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #f7b42c;
+    background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+    color: black;
+    border-radius: 10px;
+    padding: 12px;  
+}
+
+
+                        /*About me Section*/
+
+#about-me-image{
+    width: 60%;
+}
+.about-me-section{
+    background-image: url(Frame\ 57.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: fit-content;
+}
+
+                         /*recipe-section*/
+
+.recipe-area{
+    text-align: center;
+}
+.recipe-description{
+    margin-top: -20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.recipe-item-area{
+    width: 33.33%;
+    margin: 20px;
+    background-color: white;
+    height: 600px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 5px 1px grey;
+    border-radius: 30px;
+}
+.recipe-item-area img{
+    width: 80%;
+    padding: 50px;
+}
+.recipe-full-area {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+                    /*social-media-area*/
+
+.social-media-area{
+    text-align: center;
+    margin: 60px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(223 216 216);
+    background-color: white;
+    height: fit-content;
+}
+.social-media{
+    width: 33%;
+}
+.social-media h1{
+    margin-top: -20px;
+}
+.social-media h3{
+    margin-top: -50px;
+}
+#youtube{
+    width: 60%;
+    margin-bottom: -20px;
+}
+#instagram{
+    width: 35%;
+    padding-top: 20px;
+}
+#linkdin{
+    width: 38%;
+}
+
+                    /*footer-section*/
+ .footer-section{
+    background-color: black;
+    text-align: center;
+ }                   
+footer h1{
+    
+    color: gray;
+    text-align: center;
+}
+footer p{
+    color: cornsilk;
+    text-align: center;
+    margin-top: -40px;
+}
+footer h3{
+color: gainsboro;
+text-align: left;
+margin-left: 50px;
+padding-bottom: 35px;
+} 
+}
+.news-latter{
+    margin-top: -50px;
+    margin-left: 500px;
+}
+    
